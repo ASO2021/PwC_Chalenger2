@@ -10,16 +10,15 @@ PwC_Chalenger is an automation and testing project developed for a technical ass
 - REST API Testing  
 
 ## Project Structure
-
-| Folder / File                Description                          
-|---------------------|------------------------------------
-| `Data/`             | Test data, payloads, and static files 
-| `Test/`             | Automated test scripts              
-| `Test/test_auth.py` | Authentication-related tests       
-| `api_client.py`     | Client to interact with RESTful API 
-| `config.py`         | General project configuration      
-| `conftest.py`       | Pytest fixtures and setup          
-| `README.md`         | Project documentation               
+| Path                  | Description                             |
+|-----------------------|-----------------------------------------|
+| `Data/`               | Test data, payloads, static files        |
+| `Test/`               | Automated test scripts                   |
+| `Test/test_auth.py`   | Tests for authentication functionality  |
+| `api_client.py`       | RESTful API client logic                 |
+| `config.py`           | General configuration variables          |
+| `conftest.py`         | Pytest fixtures and setup configuration |
+| `README.md`           | Project documentation                    |        
 
 ## Requirements
 - Python 3.13 or higher installed  
