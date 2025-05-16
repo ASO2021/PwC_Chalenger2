@@ -1,7 +1,4 @@
 # PwC_Chalenger2
-Automated API tests project with planned Selenium integration
-# PwC_Chalenger
-
 ## Description
 PwC_Chalenger is an automation and testing project developed for a technical assessment at PwC Argentina. This project includes automated tests using Pytest, RESTful API clients, and configurations to facilitate continuous validation of system functionalities.
 
